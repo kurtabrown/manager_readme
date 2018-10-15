@@ -6,16 +6,16 @@ This document is not intended to replace or override the relationship and mutual
 
 ## My role as a manager
 
-TL;DR: I am here to make sure our Sydney team is successful, happy, and working on the things that are most important to help our customers, improve our services, and improve our business. As a "General Manager" there isn't a lot of things that are outside the scope of my concern or interest. I don't always have the time or ability to dive deep into everything, but I'm committed to ensuring that the appropriate people are. More granularly:
+TL;DR: I am here to make sure our Sydney team is successful, happy, and working on the things that are most important to help our customers, improve our services, and improve our business. As a "General Manager" there isn't a lot of things that are outside the scope of my concern or interest. I don't always have the time or ability to dive deep into everything, but I'm committed to ensuring that the appropriate people are. Here's some specific things I see as my responsibility:
 
-1.  I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and be proud of what you do.
-2.  I am here to make sure we are all pointed in the right direction. I believe in giving as much autonomy to people as they can handle. This can result in different folk having different plans. I am here to make sure our team is all aligned and pushing in the same direction.
-3.  I am here to make you are getting what you need from others, be that other people within our organisation, our customers or our partners. 
+1.  I am here to make sure you and your team mates are successful and happy: I want you to improve your skills, grow your career, enjoy your work, and be proud of what you do.
+2.  I am here to make sure we all know where we are going and are all pointed in the right direction. I believe in giving as much autonomy to people as they can handle. This can result in different folk having different plans. I am here to make sure our team is all aligned and pushing in the same direction.
+3.  I am here to make sure you are getting what you need from others, be that other people within our organisation, our customers or our partners. 
 4.  I'm here to help make sure we are working on the right things, which is not necessarily everything we're asked to do. We are all incredibly busy and there is always more to do than can be done, my job is to try to help us determine what's the most important thing to do right now.
 5.  I'm here to navigate the intersection of our pipeline of work with your availability, workload, capability and interests.
 6.  I'm here to make the DiUS mission and corporate strategy combine with the real world by keeping an eye on the commercial health of the business, the sales pipeline, the delivery of our current projects and the future direction we are taking.
 
-These are all of approximate equal importance. If you are not successful and happy, I'm not not successful (or happy). If you are all not pointed in the right direction we will lose our way. If you are struggling without support this will impact your work and the success we bring to our clients. If we aren't focussed on the right priorities, our impact will be diminished and we won't push forward as much as we could. If we aren't aligning and balancing your goals and capabilities with the demands of our clients we are not going to have help our customer succeed and you won't achieve your full potential. If we aren't looking to move ahead with our strategy we will get stuck in the way we have always done things.
+My job is also to recognise that all these are of equal importance and need to be balanced against one another. If you are not successful and happy, I'm not not successful (or happy). If you are all not pointed in the right direction we will lose our way. If you are struggling without support this will impact your work and the success we bring to our clients. If we aren't focussed on the right priorities, our impact will be diminished and we won't push forward as much as we could. If we aren't aligning and balancing your goals and capabilities with the demands of our clients we are not going to have help our customer succeed and you won't achieve your full potential. If we aren't looking to move ahead with our strategy we will get stuck in the way we have always done things.
 
 I have been a commercial software developer since I left high school, although it has sometimes been accompanied by fancy titles like CTO. I was a consultant for over six years. I have engaged a firm similar to DiUS so I know what it's like to be a customer of ours. So, I have context. I have understanding. I have insight. But, I also know that my context, understanding and insight are limited to my experiences, and that your context, insight and understanding, combined with that of your teams and your clients, is worth much more than mine. So if it feels like I'm overstepping the mark, try to humour me. It can get dead boring being a general manager and sometimes it's nice to explore the cut and thrust of "real work". But if I try to intervene in a way that is detrimental in any way, call it out loud and call it out clear.
 
@@ -25,7 +25,7 @@ I believe feedback is an opportunity to focus on what you do well as well as wha
 
 I really do want your feedback. I understand I have strengths and weaknesses like everyone else. I am busy just like you so I can sometimes overlook things that are important. Just like you, I also want to grow and prosper in my career, and unless I know what I can improve upon I can't do that.
 
-If you have feedback for me, please give it. Even if you think I might not want to hear it. Even if you aren't sure of how to phrase it, or what can you'd like me to do. Let me know and we can start a discussion on how best to respond.
+If you have feedback for me, please give it. Even if you think I might not want to hear it. Even if you aren't sure of how to phrase it, or what can you'd like me to do. Let me know and we can start a discussion on how best to engage.
 
 If you can give me this feedback in-person, I'd prefer that. If you're only comfortable kicking off a discussion with an email or a Slack message, I would rather you do that than not bring it up at all.
 
@@ -63,26 +63,28 @@ I equally strongly believe in transparency when it comes to taking and giving pe
 
 ## If you need something
 
-Some weeks, my schedule can be pretty full. Other weeks it's not so bad. If you need to chat, you have a few options.
+My days ebb and flow. Sometimes my schedule can be pretty full, at other times it's quiet. Locking in a consistent time to check in is pretty tough, so if you need to chat, you have a few options.
 
 1.  Snag me whenever you see me - at my desk, in the hallway, on the street. If I'm about to have to run off for a meeting or have a deadline that means I can't stop, I'll let you know and figure out a better time to chat.
 2.  Slack me or email me or text me or call me. Even if you want an in-person meeting, just message me to let me know you want to talk and I'll make time. If you would rather talk about something over email or message, that's fine too.
-3.  Throw something on my calendar. If I am scheduled for an interview or something else I can't reschedule and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day as a "meeting-free day", that does not necessarily apply to you—it's more to discourage folks from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
+3.  Throw something on my calendar. If I am scheduled for an interview or something else I can't reschedule and you invite me to a meeting, I may chat with you and reschedule.
 
-If I'm working from home, or on a customer visit, you can expect me to be as available as I would be if I was in the office. Although it may feel weird to schedule a brief call or meeting when you'd normally just swing by my desk for five minutes, please do so without hesitation if you think chatting face-to-face will be more useful than textual communication.
+As I said before, you reaching out to me for my support is not an imposition or a hassle - it's my job. I can't alwats react as quickly as you and I might like, but please help me ensure you are getting what you need from me. 
 
 ## My interests
 Here are some things I love. If you ever want to strike up casual conversation and don't know what to talk about, these are good bets
 
 * Family. I've been married to my delightful, intelligent, stylish and beautiful wife for over 20 years. We have two teenage kids, Ella (16) and Bailey (14) and they are my number one priority in life. We have a dog, Ivy, a Spoodle, who is super cute, super smart, super neurotic and much, much loved.
 
-* Travel. I've lived in NY for 6 years, London for 2 and travelled a it outside of that. There are many, many places I've not been that I really want to (India, Turkey and South America spring to mind) and I've found hearing other people's travel stories goes some way to 
+* Travel. I've lived in NY for 6 years, London for 2 and have also travelled a bit outside of that. But, there are many, many places I've not been that I really want to go (India, Turkey, Iran and South America spring to mind) and I've found hearing other people's travel stories goes some way to alleviating the travel lust but also inpires me to think about other places that should be on my list too.
 
 * Surfing. I've been a surfer since I was 12, but these days I'm limited in the amount of time I spend in the water. I love to share stories about surfing and hear about good breaks. I particularly love to get away with my mates to camp and surf.
 
 * Reading. I read every night and whenever I can on weekends and whilst on vacation. My interests and pretty broad but some of my favourites include modern Australian fiction from the likes of Peter Carey, Tim Winton, Richard Flanagan; history told in a refreshing and interesting (such as Girt); American modern classics (Catcher in the Rye, Confederacy of Dunces, etc.); Spy fiction such as le Carre and Reacher; and the occasional work related item (for our Book Club of course!)
 
-* Art. My family and I love to visit galleries and it's always been a passion of mine. Mostly modernist type stuff from Picasso and Cezanne, through to Warhol and Whitley, and I really try to keep up to date at places in Sydney like the MCA and White Rabbit.
+* Art. My family and I love to visit galleries and it's always been a passion of mine. Mostly modernist type stuff from Picasso and Cezanne, through to Warhol and Whitley, and I try to keep up to date at places in Sydney like the MCA and White Rabbit.
+
+* Music. I'm a triple J kinda guy. I've started taking Ella to gigs (San Cisco, Jungle Giants, Hockey Dad thus far) and I love live music. I like to keep up to date if I can but it's getting harder to bridge that generation gap! My range is kinda broad - older Aussie alternative rock (The Celibate Rifles, Painters and Dockers, The Triffids, Nick Cave), Ska from Jamaica (Desmond Dekker, Skatellites) and the UK revival scene (Specials, Selector, Bad Manners), US Indie Music (Violent Femmes, Smashing Pumpkins), Punk and Oi (Ramones, Sex Pistols, Cockney Rejects), even the occasional bit of Opera (Barber of Seville is a fave).
 
 * Social Issues / Politics. Can be a touchy subject I know. But if you really want to know, I'm a strong advocate of public education, a progressive on social issues such as gambling and drugs of addiction, helping to bridge the gap between our indigenous and non-indigenous citizens, a more transparent and empathetic approach to mental illness, sensible and immediate action on climate change, and addressing the increasing gap between the rich and poor. Feel free to stay clear of this subject if your views contradict mine, but I do love a healthy debate and whilst I obviously have certain leanings I have no rusted on beliefs and I always enjoy when someone shows me a side of an argument I hadn't considered before.
 
@@ -92,6 +94,8 @@ I have never experienced having me as a manager, so this is what I think is my m
 
 ## Credit
 
-Stephen Bartlett, Principal Consultant at DiUS, for his article on manager read.mes https://medium.com/@dius_au/not-just-another-readme-e2a122759ff3
+Stephen Bartlett, Principal Consultant at DiUS, for his article on manager read.mes 
+https://medium.com/@dius_au/not-just-another-readme-e2a122759ff3
 
-Molly White, Tech Lead at HubSpot, for her template https://github.com/molly/manager-README
+Molly White, Tech Lead at HubSpot, for her template 
+https://github.com/molly/manager-README
