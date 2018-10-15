@@ -78,6 +78,8 @@ Here are some things I love. If you ever want to strike up casual conversation a
 
 * Travel. I've lived in NY for 6 years, London for 2 and have also travelled a bit outside of that. But, there are many, many places I've not been that I really want to go (India, Turkey, Iran and South America spring to mind) and I've found hearing other people's travel stories goes some way to alleviating the travel lust but also inpires me to think about other places that should be on my list too.
 
+ ![My Family in Japan](/IMG_0254.jpg)
+
 * Surfing. I've been a surfer since I was 12, but these days I'm limited in the amount of time I spend in the water. I love to share stories about surfing and hear about good breaks. I particularly love to get away with my mates to camp and surf.
 
 * Reading. I read every night and whenever I can on weekends and whilst on vacation. My interests and pretty broad but some of my favourites include modern Australian fiction from the likes of Peter Carey, Tim Winton, Richard Flanagan; history told in a refreshing and interesting (such as Girt); American modern classics (Catcher in the Rye, Confederacy of Dunces, etc.); Spy fiction such as le Carre and Reacher; and the occasional work related item (for our Book Club of course!)
