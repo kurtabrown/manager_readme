@@ -33,6 +33,11 @@ Similarly, if you have feedback for a team member, I encourage you to give it to
 
 If you want to give direct feedback but aren't sure how or aren't comfortable doing so, let me know and we can talk through it.
 
+I have created a feedback form that I hope will add some way of tracking my performance objectively over time. The link is below. It esseentially encourages you to rank me on a core bunch of skills and allows for more details on particular skills/tasks if you feel comfortable.
+
+https://docs.google.com/forms/d/e/1FAIpQLSenaPWacpJfpUsz57vUe1Ja84EEoAIPGk67zK0PAN1gbLfTZw/viewform?usp=sf_link 
+
+
 ## Schedule
 
 I am usually "at work" between 9:30am and 5:30pm. I am often online earlier or later. My usual day involves a fair bit of travel to various customer sites, sales calls and the like so you won't always find me at my desk. I try to work from home when I can, but this is limited to once or twice a month at best. You have full visibility on my calendar through Google so please see that to schedule time with me. If you are working at a customer site, I prefer to come see you. It minimises the impact on the client but also gives me an excuse to visit and make connections whilst I'm there.
