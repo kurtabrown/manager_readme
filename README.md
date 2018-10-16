@@ -37,7 +37,7 @@ If you want to give direct feedback but aren't sure how or aren't comfortable do
 
 I have created a feedback form that I hope will add some way of tracking my performance objectively over time. The link is below. It essentially encourages you to rank me on a core bunch of skills and allows for more details on particular skills/tasks if you feel comfortable.
 
-https://docs.google.com/forms/d/e/1FAIpQLSenaPWacpJfpUsz57vUe1Ja84EEoAIPGk67zK0PAN1gbLfTZw/viewform?usp=sf_link 
+https://docs.google.com/forms/d/e/1FAIpQLSenaPWacpJfpUsz57vUe1Ja84EEoAIPGk67zK0PAN1gbLfTZw/viewform?usp=sf_link
 
 ## Schedule
 
